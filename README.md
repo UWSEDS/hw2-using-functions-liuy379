@@ -2,7 +2,7 @@
 
 ##### Grade: 2/7
 
--3: Didn't show that the dataframe has at least 3 columns
+-3: Didn't show that the dataframe has at least 3 columns     
 -1: df.columns.equals(trans.columns) will return False even if you have the same columns but in a different order     
 -1: df.dtypes.equals(trans.dtypes) will return False even if you have the same column types but in a different order  
 
