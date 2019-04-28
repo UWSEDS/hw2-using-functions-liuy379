@@ -1,5 +1,13 @@
 # HW2 - Using Functions
 
+##### Grade: 2/7
+
+-3: Didn't show that the dataframe has at least 3 columns
+-1: df.columns.equals(trans.columns) will return False even if you have the same columns but in a different order  
+-1: df.dtypes.equals(trans.dtypes) will return False even if you have the same column types but in a different order  
+
+-----
+
 Create a python module (a file with extension ‘.py’) with the following functions:
 
 1. (4 points) Find an on-line data source (e.g., from data.gov). Write python codes that read the on-line file and create a data frame that has at least 3 columns.
