@@ -1,6 +1,11 @@
 # HW2 - Using Functions
 
-##### Grade: 2/7
+##### Final grade: 7/7
+
+-0: In general, it is generally not the best idea to use integer values for boolean condition checks.     
+
+
+Grade: 2/7     
 
 -3: Didn't show that the dataframe has at least 3 columns     
 -1: df.columns.equals(trans.columns) will return False even if you have the same columns but in a different order     
